@@ -3,7 +3,7 @@
 ![task4](https://github.com/murtazakhan2595/react-tip-calculator/assets/87115246/d95daef6-c3a5-4671-bb58-7270c0986c2d)
 
 ## Preview Live 
-
+[DEMO](https://murtaza-tip-cal.netlify.app/)
 ## Welcome! 👋
 
 "Build a tip calculator using ReactJS, enabling users to quickly calculate and split the appropriate tip amount based on their bill total and desired tip percentage."
